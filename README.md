@@ -2,7 +2,7 @@
 
 # Hi there, I'm Osama Alikamatu 👋
 
-**Full-Stack Software Engineer · AI Systems Builder · Product Engineer**
+**Full-Stack Software Engineer**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-alikamatu.com-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alikamatu.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-alikamatu-a5a3833a2)
