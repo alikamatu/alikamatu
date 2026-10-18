@@ -22,7 +22,7 @@
 
 I'm a full-stack and mobile software engineer who designs, builds, and operates production applications end-to-end — from database schemas, concurrency-safe APIs, and streaming LLM pipelines to responsive, accessible interfaces real users depend on every day.
 
-- 🏗️ **Production Track Record**: Built and launched **AllMapHostels** solo (400+ registered users in 31 days), engineered enterprise ops tooling tracking **$6.17M in monthly operations**, and developed **Vendly** (a verified multi-vendor marketplace with Paystack split payment ledgers).
+- 🏗️ **Production Track Record**: Built and launched **AllMapHostels** solo (400+ registered users in 31 days), engineered enterprise ops tooling tracking **$6.17M in monthly operations**, and developed **Verndly** (a verified multi-vendor marketplace with Paystack split payment ledgers).
 - 🧠 **AI & LLMs**: Architect of **Cairn**, a productivity SaaS powered by streaming **Anthropic Claude Sonnet 4.5**, with classified typed error recovery, PWA offline shells, and context-grounded AI planning.
 - ⚙️ **Engineering Principles**:
   - ✔️ Build for production reliability — real users, real edge cases, and zero demo shortcuts.
@@ -53,7 +53,7 @@ Fintech:          Paystack (Split Payments, Webhooks, Subaccounts, Double-Entry 
     <td width="50%" valign="top">
       <h3 align="center">🏔️ Cairn — AI Productivity SaaS</h3>
       <p align="center">
-        <a href="https://assistant.alikamatu.com"><img src="https://img.shields.io/badge/Live_App-assistant.alikamatu.com-0d9488?style=flat-square&logo=vercel&logoColor=white" alt="Live App" /></a>
+        <a href="https://cairn.alikamatu.com"><img src="https://img.shields.io/badge/Live_App-cairn.alikamatu.com-0d9488?style=flat-square&logo=vercel&logoColor=white" alt="Live App" /></a>
         <a href="https://github.com/alikamatu/cairn"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
       </p>
       <p>Personal daily planner replacing tab switching between tasks, habits, notes, and quarterly goals. Features streaming <b>Anthropic Claude Sonnet 4.5</b> assistant, 5 OKLCH themes, full ⌘K keyboard navigation, custom markdown parser, and Paystack subscriptions.</p>
@@ -71,7 +71,7 @@ Fintech:          Paystack (Split Payments, Webhooks, Subaccounts, Double-Entry 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛍️ Vendly — Verified Marketplace</h3>
+      <h3 align="center">🛍️ Verndly — Verified Marketplace</h3>
       <p align="center">
         <a href="https://verndly.com"><img src="https://img.shields.io/badge/Live_Site-verndly.com-6366f1?style=flat-square&logo=vercel&logoColor=white" alt="Live Site" /></a>
         <a href="https://github.com/alikamatu/vendly"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
