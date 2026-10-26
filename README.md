@@ -24,7 +24,7 @@ I'm a full-stack and mobile software engineer who designs, builds, and operates 
 
 - 🏢 **Currently**: Founder & Lead Engineer at **Durabel** (Jan 2024 – Present). Previously Software Engineer (Full Stack) at **Seven Group Solutions** (Feb 2025 – Mar 2026).
 - 🏗️ **Production Track Record**: Built and launched **AllMapHostels** solo (400+ signups in 31 days · 19 hostels listed · 123 weekly active · GH₵390 MRR), built the **Forbes Digitals** e-commerce site, and developed **Verndly**, a verified marketplace with escrow protection and a 4% platform fee.
-- 🧠 **AI & LLMs**: Built **Cairn**, a productivity SaaS with a streaming **Anthropic Claude** assistant grounded in the user's own tasks, habits, and goals.
+- 🧠 **AI & LLMs**: Built **Cairn**, a productivity SaaS with a streaming **Google Gemini** assistant grounded in the user's own tasks, habits, and goals.
 - 🎓 **Education**: BSc Information Technology Management, University of Professional Studies, Accra (UPSA), 2021–2025, Second Class Upper.
 - ⚙️ **Engineering Principles**:
   - ✔️ Build for production reliability — real users, real edge cases, no demo shortcuts.
@@ -41,7 +41,7 @@ Languages:        TypeScript, JavaScript, Python, SQL, HTML5/CSS3
 Frontend:         Next.js (App Router), React 19, React Native (Expo), Tailwind CSS v4, Framer Motion, Zustand
 Backend & APIs:   NestJS 11, Node.js, Express.js, REST APIs, WebSockets, Webhooks, Zod
 Databases & ORM:  PostgreSQL 16, Prisma 7, MongoDB, Redis, Supabase
-AI & LLM Ops:     Anthropic Claude API, OpenAI API, Streaming Readers, RAG / Vector Retrieval, Context Bundling
+AI & LLM Ops:     Google Gemini API, OpenAI API, Streaming Readers, RAG / Vector Retrieval, Context Bundling
 Cloud & DevOps:   Docker, AWS, Vercel, Render, Cloudinary, Web Push (VAPID), GitHub Actions
 Fintech:          Paystack (Split Payments, Webhooks, Subaccounts, Double-Entry Ledgers)
 ```
@@ -58,8 +58,8 @@ Fintech:          Paystack (Split Payments, Webhooks, Subaccounts, Double-Entry 
         <a href="https://cairn.alikamatu.com"><img src="https://img.shields.io/badge/Live_App-cairn.alikamatu.com-0d9488?style=flat-square&logo=vercel&logoColor=white" alt="Live App" /></a>
         <a href="https://github.com/alikamatu/cairn"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
       </p>
-      <p>One calm app for tasks, habits, notes, and quarterly goals, with a streaming <b>Anthropic Claude</b> assistant that knows your context. 5 OKLCH themes, ⌘K keyboard navigation, installable PWA, free to start with Pro via Paystack.</p>
-      <p><b>Stack:</b> Next.js 16 · React 19 · TypeScript · Tailwind v4 · Zustand · Claude API · Paystack · PWA</p>
+      <p>One calm app for tasks, habits, notes, and quarterly goals, with a streaming <b>Google Gemini</b> assistant that knows your context. 5 OKLCH themes, ⌘K keyboard navigation, installable PWA, free to start with Pro via Paystack.</p>
+      <p><b>Stack:</b> Next.js 16 · React 19 · TypeScript · Tailwind v4 · Zustand · Gemini API · Paystack · PWA</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🏠 AllMapHostels — Hostel Discovery & Booking</h3>
