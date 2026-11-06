@@ -12,7 +12,7 @@
 
 <br/>
 
-📍 **Accra, Ghana** &nbsp;•&nbsp; 💼 **Open to full-time mid-level engineering roles (remote or Accra)**
+📍 **Accra, Ghana** &nbsp;•&nbsp; 💼 **Open to full-time engineering roles (remote or Accra)**
 
 </div>
 
@@ -113,6 +113,6 @@ Fintech:          Paystack (Split Payments, Webhooks, Subaccounts, Double-Entry 
 [![Email](https://img.shields.io/badge/Email-alikamatu14@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alikamatu14@gmail.com)
 [![X](https://img.shields.io/badge/X-@notalikamatu-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/notalikamatu)
 
-*Open to full-time mid-level engineering roles (remote or Accra).*
+*Open to full-time engineering roles (remote or Accra).*
 
 </div>
