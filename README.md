@@ -23,9 +23,10 @@
 I'm a full-stack and mobile software engineer who designs, builds, and operates production applications end-to-end — from database schemas, concurrency-safe APIs, and streaming LLM pipelines to responsive, accessible interfaces real users depend on.
 
 - 🏢 **Currently**: Founder & Lead Engineer at **Durabel** (Jan 2024 – Present). Previously Software Engineer (Full Stack) at **Seven Group Solutions** (Feb 2025 – Mar 2026).
-- 🏗️ **Production Track Record**: Built and launched **AllMapHostels** solo (400+ signups in 31 days · 19 hostels listed · 123 weekly active · GH₵390 MRR), built the **Forbes Digitals** e-commerce site, and developed **Verndly**, a verified marketplace with escrow protection and a 4% platform fee.
-- 🧠 **AI & LLMs**: Built **Cairn**, a productivity SaaS with a streaming **Google Gemini** assistant grounded in the user's own tasks, habits, and goals.
+- 🏗️ **Production Track Record**: Built and launched **AllMapHostels** solo (400+ registered users in 31 days), engineered enterprise ops tooling tracking **$6.17M in monthly operations**, and developed **Verndly** (a verified multi-vendor marketplace with Paystack split payment ledgers).
+- 🧠 **AI & LLMs**: Architect of **Cairn**, a productivity SaaS powered by streaming **Anthropic Claude Sonnet 4.5**, with classified typed error recovery, PWA offline shells, and context-grounded AI planning.
 - 🎓 **Education**: BSc Information Technology Management, University of Professional Studies, Accra (UPSA), 2021–2025, Second Class Upper.
+
 - ⚙️ **Engineering Principles**:
   - ✔️ Build for production reliability — real users, real edge cases, no demo shortcuts.
   - ✔️ Document architecture, API specs, and deploy configs alongside code.
